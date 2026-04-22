@@ -1,5 +1,5 @@
 
-# Hi there, I'm Mariel! 👋
+# Hi, I'm Mariel! 👋
 🔭 Working on: Web-Based Job Listing System<br>🌱 Learning: CS50 Web Programming & CS50x (Harvard edX), Advanced Full Stack & System Architecture<br>👯 Open to collaborate: Web systems, POS, real-world apps, Data Science<br>🤔 Seeking help with: System scaling & cloud deployment<br>⚡ Fun fact: I combine programming + accounting + design
 
 
